@@ -1,2 +1,2 @@
-# krabi.github.io
+# krabi
 my first repo
